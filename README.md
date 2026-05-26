@@ -1,4 +1,6 @@
-## Hi there 👋
+## Howdy 
+- I have too many tabs open.
+- I'm currently learning too many things at the same time.
 
 <!--
 **bmonagan/bmonagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
